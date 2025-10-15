@@ -1,0 +1,21 @@
+import{a as i,p as e,v as r,O as c}from"./chunk-OIYGIGL5-DhW0zAkl.js";import{c as s}from"./createLucideIcon-DvTHDFVP.js";import{F as d}from"./file-text-72rw8F_m.js";import{X as h}from"./x-CV5Lq9Mb.js";/**
+ * @license lucide-react v0.545.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const x=[["path",{d:"M12 7v14",key:"1akyts"}],["path",{d:"M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z",key:"ruj8y"}]],m=s("book-open",x);/**
+ * @license lucide-react v0.545.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const p=[["path",{d:"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8",key:"5wwlr5"}],["path",{d:"M3 10a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z",key:"r6nss1"}]],u=s("house",p);/**
+ * @license lucide-react v0.545.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const g=[["path",{d:"M4 5h16",key:"1tepv9"}],["path",{d:"M4 12h16",key:"1lakjw"}],["path",{d:"M4 19h16",key:"1djgab"}]],j=s("menu",g);/**
+ * @license lucide-react v0.545.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const b=[["path",{d:"M13 21h8",key:"1jsn5i"}],["path",{d:"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z",key:"1a8usu"}]],v=s("pen-line",b);function k(){const[t,o]=i.useState(!1),l=[{name:"Dashboard",href:"/",icon:u},{name:"Articles",href:"/articles",icon:d},{name:"Editor",href:"/editor",icon:v}];return e.jsxs("div",{className:"min-h-screen bg-gray-50",children:[e.jsxs("header",{className:"bg-white shadow-sm border-b border-gray-200 sticky top-0 z-50",children:[e.jsx("div",{className:"max-w-7xl mx-auto px-6 lg:px-8",children:e.jsxs("div",{className:"flex justify-between items-center h-20",children:[e.jsx("div",{className:"flex items-center",children:e.jsxs(r,{to:"/",className:"flex items-center space-x-4 group",children:[e.jsx("div",{className:"p-3 bg-blue-600 rounded-xl shadow-lg group-hover:shadow-xl transition-all duration-300 group-hover:scale-105",children:e.jsx(m,{className:"w-7 h-7 text-white"})}),e.jsxs("div",{children:[e.jsx("h1",{className:"text-2xl font-bold text-gray-900",children:"EdTech CMS"}),e.jsx("p",{className:"text-sm text-gray-600 -mt-1",children:"Content Management"})]})]})}),e.jsx("nav",{className:"hidden md:flex items-center space-x-2",children:l.map(a=>{const n=a.icon;return e.jsxs(r,{to:a.href,className:"flex items-center px-6 py-3 rounded-xl text-sm font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-50 transition-all duration-200 group",children:[e.jsx(n,{className:"w-5 h-5 mr-3 group-hover:scale-110 transition-transform duration-200"}),a.name]},a.name)})}),e.jsx("div",{className:"md:hidden",children:e.jsx("button",{onClick:()=>o(!t),className:"p-3 rounded-xl text-gray-600 hover:text-gray-900 hover:bg-gray-100 transition-all duration-200",children:t?e.jsx(h,{className:"w-6 h-6"}):e.jsx(j,{className:"w-6 h-6"})})})]})}),t&&e.jsx("div",{className:"md:hidden bg-white border-t border-gray-200",children:e.jsx("div",{className:"px-6 py-4 space-y-2",children:l.map(a=>{const n=a.icon;return e.jsxs(r,{to:a.href,onClick:()=>o(!1),className:"flex items-center px-4 py-3 rounded-xl text-base font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-50 transition-all duration-200",children:[e.jsx(n,{className:"w-5 h-5 mr-3"}),a.name]},a.name)})})})]}),e.jsx("main",{className:"max-w-7xl mx-auto py-12 px-6 lg:px-8",children:e.jsx("div",{className:"bg-white rounded-3xl shadow-xl border border-gray-200 min-h-[calc(100vh-12rem)]",children:e.jsx("div",{className:"p-8 lg:p-12",children:e.jsx(c,{})})})}),e.jsx("div",{className:"fixed top-1/2 -left-4 w-8 h-20 bg-purple-300 rounded-r-full opacity-20"}),e.jsx("div",{className:"fixed top-1/4 -right-4 w-8 h-16 bg-blue-300 rounded-l-full opacity-20"})]})}export{k as Layout};
