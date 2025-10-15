@@ -3,9 +3,8 @@
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
   "installCommand": "npm install",
-  "framework": "react-router",
+  "framework": null,
   "outputDirectory": "build/client",
-  "serverOutputDirectory": "build/server",
   "env": {
     "DATABASE_URL": "@database-url",
     "DIRECT_URL": "@direct-url"
